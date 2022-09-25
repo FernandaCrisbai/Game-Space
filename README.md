@@ -19,4 +19,4 @@ Desenvolver e hospedar (netlify ou outro lugar) o Dashbord que obtenha os dados 
 - O objetivo do jogo é atingir 40 pontos. Para isso, você precisa pegar as moedas que valem 1 ponto cada e destruir os OVNI's que adiciona 2 pontos.
 - Para movimentar o foguete, basta acionar as setas do teclado.
 - O fogue conta com o recurso de atirar no inimigo para destruilo, basta precionar o botão esquerdo do mouse. Mas atenção, os ovnis também atiram na direção do foguete e caso seja atingido ele será destruido.
-- Ao final do jogo, informe seu nome no campo "jogador" e clique em "Enviar" para que a sua pontuação seja lançada no ranking
+- Ao final do jogo, informe seu nome no campo "jogador" e clique em "Enviar" para que a sua pontuação seja lançada no ranking.
