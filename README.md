@@ -14,8 +14,6 @@ Desenvolver e hospedar (netlify ou outro lugar) o Dashbord que obtenha os dados 
 
 ## Link para acessar a dashboard com o ranking de pontuação
 
-<https://mygamespace.netlify.app/>
-
 ## Regras do jogo
 
 - O objetivo do jogo é atingir 40 pontos. Para isso, você precisa pegar as moedas que valem 1 ponto cada e destruir os OVNI's que adiciona 2 pontos.
