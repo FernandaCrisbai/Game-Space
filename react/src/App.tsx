@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import axios from "axios";
-
 import './App.css';
 
 export type User = {
@@ -13,7 +12,7 @@ function App() {
   const [banco, setBanco] = useState<User>({})
 
   useEffect(()=> {
-    axios.get ("https://gamealien-4e634-default-rtdb.firebaseio.com/ranking.json").then((response: { data: React.SetStateAction<User>; }): void => { setBanco(response.data); })
+    axios.get ('https://gamealien-4e634-default-rtdb.firebaseio.com//ranking.json').then((response: { data: React.SetStateAction<User>; }): void => { setBanco(response.data); })
   })
   return (
     <div className="Conteiner">
@@ -26,6 +25,7 @@ function App() {
             <table>
               <tr>
               <th> Jogador: {key} </th>
+              <th>Pontuação: {banco[key]}</th>
               
 
               </tr>
